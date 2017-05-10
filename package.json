@@ -1,0 +1,19 @@
+{
+  "name": "exercice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aminelahlou/exercice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aminelahlou/exercice/issues"
+  },
+  "homepage": "https://github.com/Aminelahlou/exercice#readme"
+}
